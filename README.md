@@ -9,7 +9,7 @@ pkg install python
 
 pip install rich && bs4 && mechanize && stdiomask
 
-git clone https://github.com/Fii-XD/FBcrk
+git clone https://github.com/Cobra10322/FBcrk
 
 cd FBcrk
 
